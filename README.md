@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eCaca-hub/eCaca-Hub/refs/heads/main/obf_EgXz8AUl8Z9n3592U4rLYKtV3feYmCJfF8V80Ow6m9qMi6yeM183Jy60m93Jy96n.lua?token=GHSAT0AAAAAAC7OAZE7GBKQUOZK2WAXZZLCZ54XP7Q"))()
